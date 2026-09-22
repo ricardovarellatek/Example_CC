@@ -1,4 +1,4 @@
-# Example_CC
+# Example_CC 
 
 Projeto de exemplo criado para demonstrar o uso do [Claude Code](https://claude.com/claude-code) em tarefas de desenvolvimento de software, como a geração de documentação e o versionamento com Git.
 
